@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Ejercicio_2</string>
-    <string name="txt_nombre">Nombre</string>
-    <string name="txt_apellido">Apellido</string>
+    <string name="ed_nombre">Nombre</string>
+    <string name="ed_apellido">Apellido</string>
     <string name="txt_email">correo electronico</string>
     <string name="bt1">Crear Cuenta</string>
     <string name="edt_password">Ingrese clave</string>
